@@ -1,0 +1,8 @@
+## Interface: 110005
+## Title: GuildToDiscord
+## Notes: Saves Discord webhook URL and enables chat logging for relay
+## Author: ChatGPT
+## Version: 0.1.0
+## SavedVariables: GuildToDiscordDB
+
+GuildToDiscord.lua
